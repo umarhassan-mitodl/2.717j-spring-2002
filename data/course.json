@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "b0ba8bb5-e9a0-87ad-052c-2e62fdc1deb9",
+  "instructors": {
+    "content": [
+      "a0059bf4-2f78-b8d5-ba9c-c83f448f3e0c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c2248f3a-a7fc-2629-1c26-9e9acee1e208",
+    "website": "2-717j-optical-engineering-spring-2002"
+  },
+  "course_title": "Optical Engineering",
+  "course_description": "This course concerns the theory and practice of optical methods in engineering and system design, with an emphasis on diffraction, statistical optics, holography, and imaging. It provides the engineering methodology skills necessary to incorporate optical components in systems serving diverse areas such as precision engineering and metrology, bio-imaging, and computing (sensors, data storage, communication in multi-processor systems). Experimental demonstrations and a design project are included.\n",
+  "department_numbers": [
+    "2",
+    "MAS"
+  ],
+  "extra_course_numbers": "MAS.857J",
+  "primary_course_number": "2.717J",
+  "course_image_thumbnail": {
+    "content": "ef694eac-5889-09a8-30e5-5af9caea8a51",
+    "website": "2-717j-optical-engineering-spring-2002"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "095ee150-8b72-4a63-94d0-840bc3b1e9d0",
+  "site_short_id": "2.717j-spring-2002",
+  "site_url_path": "courses/2-717j-optical-engineering-spring-2002",
+  "title": "Course Metadata"
+}
